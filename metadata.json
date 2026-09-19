@@ -1,0 +1,7 @@
+{
+  "name": "TWH ORG",
+  "description": "Educational technology and cybersecurity learning institute offering practical training in Cyber Security, Ethical Hacking, Python, Linux, Networking, Web Development, and Databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

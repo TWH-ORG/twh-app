@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyber Hexagon / Shield outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,26 L76,38 L76,64 L54,78 L32,64 L32,38 Z" />
+    
+    <!-- Inner Shield Accent -->
+    <path
+        android:fillColor="#152438"
+        android:strokeColor="#00E676"
+        android:strokeWidth="1.5"
+        android:pathData="M54,32 L70,41 L70,61 L54,72 L38,61 L38,41 Z" />
+    
+    <!-- Tech Nodes and Circuit Connection -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,40 L62,45 L62,56 L54,61 L46,56 L46,45 Z" />
+    
+    <!-- Center Core Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50.5 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Terminal Bracket Accents < > -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M24,48 L20,54 L24,60" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M84,48 L88,54 L84,60" />
+</vector>
